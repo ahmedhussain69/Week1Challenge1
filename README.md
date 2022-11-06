@@ -2,8 +2,8 @@
 
 ## Link:
 
-To be inserted once project completed<br>
-Partial screenshot of end result: Assets\images\challenge1EndResult.PNG
+https://ahmedhussain69.github.io/Week1Challenge1/<br>
+Partial screenshot of end result: assets\images\challenge1EndResult.PNG
 
 ## Project Description:
 
