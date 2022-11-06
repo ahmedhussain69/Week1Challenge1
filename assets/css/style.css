@@ -21,7 +21,7 @@ p {
     font-size: 16px;
 }
 
-/* Header and Navigation area styling*/
+/* Header and Navigation area styling. */
 
 header {
     margin-right: 20px;
@@ -64,7 +64,7 @@ header {
 }
 
 
-/* Styling for background image in in Div element for class hero */
+/* Styling for background image in in Div element for class hero. */
 
 .hero {
     height: 800px;
@@ -75,7 +75,7 @@ header {
     background-position: center;
 }
 
-/* Styling for the sections, their headings and images */
+/* Styling for the sections, their headings and images. */
 
 .search-clean {
     margin-bottom: 20px;
@@ -105,7 +105,7 @@ header {
     margin-left: 25px;
 }
 
-/* Styling for the asides, their headings and images */
+/* Styling for the asides, their headings and images. */
 
 .content {
     width: 75%;
