@@ -3,7 +3,7 @@
 ## Link:
 
 https://ahmedhussain69.github.io/Week1Challenge1/<br>
-[Partial screenshot of end result:](assets\images\challenge1EndResult.PNG)
+[Partial screenshot of end result:](assets/images/challenge1EndResult.PNG)
 
 ## Project Description:
 
